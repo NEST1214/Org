@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Home of Estupinan Org",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "ai": {
       "prompt": "We E Organization our main page will just be one big picture with links on the top right of the page",
       "imageSearchQuery": "image"
@@ -272,7 +272,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "witsec-white-label": true,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
